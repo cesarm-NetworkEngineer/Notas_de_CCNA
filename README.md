@@ -1,5 +1,6 @@
 Resumen de conceptos importantes del CCNA (Cisco Certified Network Associate)
-El CCNA es una certificación reconocida internacionalmente que valida conocimientos fundamentales sobre redes. A continuación, se presenta un resumen con los puntos esenciales que abarca esta certificación:
+El CCNA es una certificación reconocida internacionalmente que valida conocimientos fundamentales sobre redes. 
+A continuación, se presenta un resumen con los puntos esenciales que abarca esta certificación:
 
 1. Fundamentos de Redes
 1.1. Modelo OSI y TCP/IP
